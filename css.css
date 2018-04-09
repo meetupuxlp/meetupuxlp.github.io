@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: #212121;
 }
 
 h1 {
@@ -9,6 +9,7 @@ h1 {
 }
 
 p {
+	color: #ff8a65;
 	text-align: center;
     font-family: 'Dosis', sans-serif;
     font-size: 20px;
